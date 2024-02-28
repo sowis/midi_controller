@@ -10,7 +10,7 @@
 
 #define CHANAL 0
 
-#define SUSTAIN_PEDAL_PIN 0
+#define SUSTAIN_PEDAL_PIN 1
 #define SUSTAIN_PEDAL 64
 
 int last_sustain_pedal_value;
