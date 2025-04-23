@@ -47,7 +47,7 @@ void loop() {
   /************/
 
   sustain_pedal_controller();
-  breath_controller_controller();
+  // breath_controller_controller();
 }
 
 void midi_send(const byte type, const byte chanal, const byte note, const byte velocity) {
